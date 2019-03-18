@@ -1,0 +1,197 @@
+
+
+"Cái tốt là kẻ thù của sự tuyệt vời!" Và có lẽ vì thế nên khi giới thiệu sản phẩm mới, Jony Ive luôn nói về iPhone như một sản phẩm tuyệt vời, tuyệt vời và tuyệt vời hơn nữa. Đúng vậy, Apple luôn liên tục cải tiến và tạo ra những chiếc iPhone ngày càng tốt hơn qua từng năm. Nếu như năm ngoái họ đã bước một bước thật dài trong việc giới thiệu iPhone X với màn hình tràn viền, mạnh dạn bỏ nút home hay lần đầu tiên trong lịch sử mang cảm biến nhận diện khuôn mặt 3D lên một chiếc điện thoại thì năm nay, họ lại mang tới XS Max với sự tuyệt vời hơn, nhiều nâng cấp hơn. Đó là trên mặt lý thuyết, còn đối với mỗi người dùng chúng ta, suy cho cùng thì một câu hỏi duy nhất là có nên mua hay không? Hy vọng rằng qua bài review này này, anh em sẽ có một góc nhìn cho câu hỏi đó.
+
+
+
+
+
+
+
+
+
+
+
+
+​Có lẽ điều mà người ta quan tâm nhiều nhất đối với iPhone XS Max chính là màn hình. Nếu bạn muốn có một chiếc iPhone với màn hình lớn nhất có thể thì iPhone XS Max đã đến với thế giới này dành cho bạn. XS Max có màn hình kích thước lên tới 6.5 inch, nghĩa là lớn hơn so với con số 5.8 inch của iPhone X hay XS. Nếu chỉ đơn thuần là tính toán thì 6.5 - 5.8 chỉ vỏn vẹn là 0.7 inch chênh lệch, có nghĩa là đâu đó 12%, bạn nghĩ là không nhiều đúng không? Tuy nhiên thực tế thì hoàn toàn khác, cảm giác đầu tiên của mình cầm iPhone XS Max chính là màn hình lớn hơn rất nhiều, vâng, là rất nhiều. Hãy tưởng tượng ra cảm giác bạn được nhìn vào một chiếc màn hình OLED độ phân giải, mật độ điểm ảnh cao, các hình ảnh được hiển thị một cách mịn màn và chi tiết thì thật sự là rất tuyệt vời.
+
+
+
+
+
+
+
+​Trước đây mình hay chơi game và đọc truyện tranh trên iPhone X và kỳ thực kích thước màn hình đó vẫn chưa đủ rộng rãi để mình thỏa mãn nhất và do đó, mình luôn mơ ước được làm điều đó với iPad. Đối với XS Max, việc đánh Liên Quân, chơi PUBG hay đọc truyện tranh được thoải mái hơn, to hơn và tất nhiên là mình đỡ phải căng mắt ra để dí sát màn hình vào nhìn các biểu tượng chi chít trong đó (hiện một số game và ứng dụng vẫn chưa được cập nhật để hiển thị nhiều nội dung hơn trên XS Max nhưng đó là vấn đề sớm muộn của các lập trình viên). Vậy liệu XS Max có thay thế được iPad Mini? Câu trả lời của mình là không vì nó vẫn không đủ to như iPad, tuy nhiên, nó sẽ giúp những nhu cầu chơi game đọc truyện bằng điện thoại trở được giải tỏa hơn, thoải mái hơn một chút.
+
+
+
+
+
+
+
+​Và đối với iPhone XS Max, Apple trang bị cho nó màn hình có touch sample rate là 120Hz. Xin được khẳng định con số 120Hz ở đây không phải là tốc độ làm tươi Refresh Rate như trên iPad Pro hay Razer Phone mà đổi lại, tốc độ làm tươi màn hình của XS Max vẫn là 60Hz. Cụ thể thì nếu như các màn hình của Touch Sample Rate ở 60Hz thì màn hình sẽ theo dõi thao tác chạm cảm ứng mỗi 16,6 ms một lần, thì màn hình có Touch Sample Rate 120Hz thì thời gian đó sẽ giảm xuống một nửa chỉ còn 8,3 ms. Từ đó một cách nôm na, Touch Sample Rate cao hơn sẽ giúp iPhone phát hiện thao tác cảm ứng của người dùng được nhanh hơn, nhạy hơn và chính xác hơn. Mặt khác, khi Touch Sample Rate được đẩy lên 120Hz trên một màn hình có Refresh Rate 60Hz thì màn các chuyển động animation trên máy sẽ bắt đầu nhanh hơn và cho cảm giác mượt hơn ngay tại thời điểm bạn chạm vào.
+
+
+
+
+
+
+
+
+Hồi xưa khi chuyển từ iPhone 8 plus để đến với iPhone X, cái mình nhận được chính là một chiếc điện thoại có kích thước nhỏ gọn hơn nhưng màn hình vẫn cực kỳ rộng rãi và thoải mái khi sử dụng. Tuy nhiên, iPhone XS Max lại tiếp tục đưa tới cho mình một bất ngờ khác khi mà giờ đây, mình trở lại với kích thước tương đương như dòng Plus nhưng lại có màn hình còn to hơn nữa nhờ vào thiết kế tràn màn hình ra tới tận sát các cạnh của màn hình.
+
+
+
+
+
+
+
+​Nếu như trên iPhone X, Apple đã tạo nên một cuộc cách mạng trong việc bỏ nút home vốn đã làm nên tên tuổi của họ và có người còn nói rằng đó chính là thiết kế của trụ sở phi thuyền hiện giờ của họ. Thế nhưng nút home đã hoàn thành sứ mạng lịch sử của nó và giờ đây nó nên trở thành một biểu tượng hơn là tiếp tục sử dụng. Thay vào đó là thao tác vuốt được dùng để thay thế mà vuốt từ dưới lên là thứ mà chúng ta sẽ làm nhiều nhất khi sử dụng iPhone X. XS Max tiếp nối điều đó, vẫn sử dụng thao tác điều khiển bằng cách vuốt lên.
+
+
+
+
+
+
+
+​Khi mình cầm iPhone XS Max thường sẽ dùng tay trái, ngón út đặt vào cạnh dưới để đỡ, 3 ngón giữa để tì vào mặt sau và vươn tới khoản 2/3 chiều dài của máy. Với thao tác này, mọi thao tác điều khiển để vuốt từ dưới lên đều vẫn bình thường giống như trên iPhone X. Tuy nhiên, khi dùng ngón cái để chạm vào các biểu tượng thì mình chỉ với tới được 4 hàng tính từ bên dưới lên, còn 3 hàng còn lại phía trên thì phải thay đổi vị trí cả tay tay để máy tuột xuống một chút hoặc dùng thêm bàn tay khác. tất nhiên đối với những chiếc máy lớn như thế này thì iOS vẫn cho chúng ta tính năng thao tác bằng một tay nhưng mình ít dùng và nghĩ rằng cũng nhiều khác ít dùng bởi nó kém thân thiện hơn so với việc sử dụng liên tục bằng các ngón tay.
+
+
+
+
+
+
+
+
+​Khi xưa, các cạnh trên và dưới của màn hình dòng iPhone Plus vẫn còn rất dày, nếu không muốn nói là quá dày trong bối cảnh màn hình Vô cực của của những chiếc Galaxy đã ra đời. Giờ đây, nếu nói viền màn hình của iPhone XS Max là mỏng nhất thì rõ ràng là chưa đúng bởi chúng ta vẫn còn các viền 4 cạnh khá dày, thực tế thì dày hơn so với kiểu vát tràn viền như của Samsung Galaxy Note 9 hay OPPO Find X. Tuy nhiên, bạn không chỉ dùng điện thoại bằng cách nhìn vào nó mà còn tiếp xúc, cầm nắm, vuốt ve trên bề mặt của nó ở vô số tình thế trong đời sống hàng ngày.
+
+
+
+
+
+
+
+​iPhone XS Max vẫn mang thiết kế giống như iPhone X với phần khung viền bo tròn bằng thép không gỉ. Thiết kế này cho mình cảm giác cầm nắm rất dễ chịu, tự tin khi sử dụng và đặc biệt là không bị cấn vào bàn tay. Apple nói rất nhiều về độ bền của phần khung thép không gỉ này và thực tế sử dụng từ iPhone 4, iPhone X vừa rồi thì rõ ràng là nó giúp ích rất nhiều trong việc bảo vệ điện thoại khỏi va đập, nói cách khác là rất khó để chết như kết quả bài test độ bền năm ngoái, năm nay thì các bạn chờ ít hôm nữa hy vọng sẽ được test cho các bạn xem.
+
+Tuy nhiên nếu xét một cách khó tính hơn, do vẫn phải đảm bảo rất nhiều zo ăng để chống nước cho iPhone XS Max nên chúng ta sẽ thấy phần tiếp xúc giữa khung viền thép và màn hình kinh sẽ hơi thiếu liền lạc một chút. Bản mình dùng là phiên bản 2 SIM tại Hong Kong, một người bạn nói rằng bản máy Mỹ thì liền lạc hơn, một người bạn khác từ Mỹ về lại bảo rằng điều đó không đúng (vấn đề này vẫn còn gây tranh cãi và có lẽ sẽ tạm gác lại để giải quyết sau). Và tất nhiên, đi kèm với một thân hình lớn hơn thì trọng lượng của máy cũng nặng hơn đáng kể so với iPhone X trước đây, bởi thế nếu cầm lâu để coi phim hoặc chơi game thì sẽ nhanh mỏi hơn.
+
+
+
+
+
+
+
+​Lại nói về phần bên ngoài và năm nay, XS Max ngoài màu đen và trắng giống như năm ngoái thì có thêm một màu mới là vàng. Chúng ta sẽ có phần viền thép không gỉ cũng như viền bao quanh cụm camera màu giống như là vàng hồng, tức là hơi ngả ngả chứ không phải là màu vàng kiểu golden. Phần mặt lưng nằm bên dưới lớp kính cũng hơi vàng hồng một chút. Vấn đề màu sắc thì chín người 100 ý nên thôi mình không bàn nhiều, chỉ nói là cá nhân thích hơn vì nó mới mẻ hơn so với màu đen mà mình đã quá quen mắt với iPhone X.
+
+Thêm vào đó, có vẻ như năm nay Apple đã làm việc nhiều hơn để nâng cao khả năng kháng nước của iPhone XS Max lên IP68 thay vì IP 67 như hồi iPhone X. Anh Cuhiep đã có đi lặn biển, tắm hồ bơi với những tình huống khắc nghiệt nhất để thử và XS Max phần lớn để vượt qua. Do đó chúng ta hoàn toàn có thể dầm mưa với điện thoại trong túi quần hoặc mang XS Max đi tắm mà không sợ máy chết.
+
+
+
+
+
+
+
+​Sẽ vô cùng thiếu sót nếu không đề cập tới sự nâng cấp mạnh mẽ về mặt phần cứng trên iPhone XS Max với trái tim là con chip A12 Bionic. Đây là con chip được sản xuất trên tiến trình 7nm với khả năng thực hiện lên tới 5 ngàn tỷ phép tính mỗi giây, đồng thời còn được trang bị Neural Engine thế hệ mới để đẩy hiệu năng CPU lên tới 15%, hiệu năng đồ họa cao hơn 50%, đồng thời giảm điện năng tiêu thụ tới 50% so với A11 cũ. Và do đó, điều mà chúng ta dễ dàng nhận ra là máy sẽ khởi chạy tất cả các ứng dụng một cách cực kỳ nhanh chóng và mượt mà.
+
+
+
+
+
+
+
+​
+Apple cho biết tốc độ nhận diện Face ID trên iPhone XS Max nhanh hơn rất nhiều so với trên iPhone X. Thực tế sử dụng thì bạn sẽ khó thấy nó nhanh hơn ở những diều kiện bình thường bởi vốn dĩ FaceID trên iPhone X đã là rất nhanh rồi. Tuy nhiên, trong những tình huống khắc nghiệt hơn như dưới nắng gắt, trong môi trường tối thì rõ ràng có cải thiện đáng kể. Đặc biệt là khi mình nằm ngủ trên giường, mình hay đeo kính và kê một phần đầu trên gối ôm, số lần không nhận diện được bằng FaceID đã giảm đáng kể so vớiy trước đây.
+
+
+
+
+
+
+
+​
+Mặt khác, sức mạnh của con chip A12 Bionic không chỉ ở việc giúp cho các tác vụ chạy nhanh hơn mà đồng thời, nó còn hỗ trợ cho hoạt động của cụm camera hoàn toàn mới. Trên iPhone XS Max, chúng ta vẫn có cụm camera kép với ống kính góc rộng độ phân giải 12MP, khẩu độ f/1.8 và một ống tele 12MP, tất cả đều hỗ trợ chống rung quang học. Kết hợp những phần cứng đó với Neural Engine giúp máy có tốc độ chụp ảnh nhanh hơn (Apple gọi là No lag), cho ra các bức hình HDR thông minh hơn và đặc biệt là chế độ chụp trước xóa phông sau với các khẩu độ giả lập, làm mờ hậu cảnh, tăng bokeh,… Mời anh em xem qua một số ảnh chụp nhanh bằng iPhone XS Max, Ảnh chụp một ngày với XS và ảnh chụp so sánh với một số máy Android khác. Review camera chi tiết xin hẹn với anh em sau.
+
+
+
+
+
+
+
+​
+Bên cạnh trải nghiệm hình ảnh HDR10 thì chất lượng âm thanh trên iPhone XS Max cũng là điểm đáng chú ý. Điều dễ nhận thấy nhất chính là âm lượng được to hơn, cân bằng hơn, dynamic hơn, bass tròn trịa và chắc chắn hơn so với phiên bản trước đây. Đồng thờii âm thanh stereo cũng được cải thiện hơn, cho trải nghiệm về không gian khi xem phim nghe nhạc được nhiều hơn. Và lần này, hãy nói lời tạm biệt với chiếc jack cắm tai nghe 3.5mm tặng kèm theo máy và tất nhiên, bạn sẽ phải dùng tai không dây hoặc mua thêm adapter để dùng với tai nghe có dây (tất nhiên là chất lượng âm thanh cũng cao hơn). Dưới góc độ nào đó thì người ta trách Apple hút máu ở khoản này cũng là đúng, vâng, hút thêm 9 đô sau khi bạn đã mua một chiếc máy 1100 đô cho bản 64GB!
+
+
+
+
+
+
+
+​
+Và sẽ lại rất thiếu sót nếu không nói tới trải nghiệm 2 SIM trên iPhone XS Max. Có lẽ không chỉ riêng mình mà nhiều người dùng trong nhiều năm nay cũng mơ ước một chiếc iPhone có 2 SIM. Thử tưởng tượng bạn bạn có một SIM chính để nghe gọi và muốn có thêm 1 SIM 4G nữa chỉ dùng để lướt web, chơi game,… Trước đây mình dùng iPhone X với một cục phát 4G và rõ ràng, điều đó là quá rườm rà và vướng víu đối với mình. Giờ đây thì mọi thứ được hợp nhất lại trong cùng một chiếc iPhone XS Max.
+
+
+Kết quả thử nghiệm so sánh thời gian sử dụng pin của iPhone XS Max bản 2 SIM vật lý và 1 SIM​
+Kỳ thực, mình không có gì phàn nàn về công nghệ 2 SIM 2 Sóng Dual Stand By trên iPhone XS Max 2 SIM vật lý bản Hong Kong. Tất nhiên là còn có phiên bản XS Max 1 SIM vật lý và eSIM, hiện thì Việt Nam chưa có hỗ trợ nhưng phong phanh thấy các nhà mạng như Viettel hay Vina cho biết sẽ sớm hỗ trợ. Âu cũng là tin vui cho anh em được sử dụng công nghệ mới. Anh em nào máu quá muốn xài iPhone 2 SIM ngay và luôn thì có vẻ sẽ chọn bản Hong Kong. Tuy nhiên hãy coi chừng không lâu nữa Việt Nam hỗ trợ eSIM thì đừng thèm khi thấy người khác dùng nhé.
+
+
+
+
+
+
+
+​
+Và tất nhiên, không chỉ có kích thước lớn hơn, màn hình to hơn hay chip mạnh hơn mà iPhone XS Max cũng có thời lượng pin lâu hơn so với iPhone X. Mình là một người sử dụng điện thoại khá nhiều để lướt web, Facebook, xem phim và đôi khi chơi game giải trí. Mình rút sạc vào buổi sáng đi làm thì đối với X tới khoảng 4h chiều sẽ bắt đầu hết pin. Đối với XS Max thì con số này sẽ kéo dài ra thêm khoảng 1 tiếng rưỡi tới 2 tiếng nữa. Tức là tầm 6h hơn mình mới chịu chết. iPhone XS Max đi kèm với củ sạc 5W vốn đã đi theo trong suốt chiều dài lịch sử 11 năm qua của iPhone, tuy nhiên XS Max có thể sạc nhanh hơn nếu bạn dùng một củ sạc nhanh hơn.
+
+Và công bằng mà nói thì pin của XS Max vẫn chưa nhiều như so với dòng Plus hồi xưa vốn có thời gian sử dụng đôi khi lên tới 1 ngày không sạc, âu cũng là điều dễ hiểu khi mà XS Max cần phải tốn rất nhiều điện để vận hành cả màn hình OLED cùng nhiều phần cứng bên trong nó.
+
+
+
+
+
+
+
+​
+Cuối cùng, ở mức giá từ 1100 đô la, iPhone XS Max là một chiếc điện thoại không hề rẻ nếu không muốn nói là mắc, bất kể nó là một chiếc smartphone đầu bảng của Apple. Con số này là cao hơn khá nhiều so với những chiếc điện thoại flagship của nhiều hãng khác. Và kỳ thực không phải tới năm nay mà từ năm ngoái, Apple đã "đầu têu" trong việc cố gắng bình thường hóa mức giá trên một ngàn đô cho smartphone với iPhone X, sau đó là kéo theo một loạt những cái tên như Huawei P20 Pro, Oppo Find X, Vivo Nex, Sony Xperia XZ2 Premium và gần đây là Note 9. Năm nay, Apple tiếp tục bắt chúng ta phải chi thêm 100 đô để có được một chữ Max. Liệu có đáng mua không? Có lẽ xin dành ở bên dưới để phân giải.
+
+
+
+
+
+
+
+​
+Vâng, đó là một ý tưởng hấp dẫn nhưng rõ ràng lý giải cho mức giả dễ chịu hơn của iPhone XR chính là nó sử dụng màn hình LCD chứ không phải là OLED, đồng thời phần khung máy cũng sử dụng nhôm chứ không phải là thép không gỉ giống như XS hay XS Max. Có thể bạn sẽ nghĩ tới việc dùng ốp lưng để bảo vệ máy, xóa nhòa phần nào ranh giới bảo vệ máy giữa khung nhôm và khung thép. Đó là một ý tưởng không tồi nhưng hãy tại sao phải đánh đổi thiết kế đẹp mắt và sexy của một chiếc iPhone để giấu nó vào chiếc ốp lưng, lại còn là một chiếc máy nhiều màu sắc có màu ưa thích của bạn. Có chăng là bạn chấp nhận đánh đổi màn hình OLED đẹp của XS Max để đổi lấy một màn hình LCD nhỏ hơn xíu và một thời lượng pin sử dụng lâu hơn. Tạm thời là vậy.
+
+
+
+
+
+
+
+​
+
+
+
+
+
+
+​
+Vậy cuối cùng ai sẽ là những người có tiềm năng mua iPhone XS Max? Theo mình, đó sẽ là những người đã dùng X và vẫn luôn mơ về một chiếc máy giống như vậy nhưng có màn hình lớn hơn để có trải nghiệm chơi game đọc sách rộng rãi hơn. Đó có thể là một người khi xưa đã bỏ vừa túi quần chiếc iPhone 7 Plus hoặc 8 Plus và bây giờ muốn khu vực màn hình nhỏ xíu đó kéo dài ra tới 4 cạnh. Đó cũng có thể là những người đang xài những chiếc máy cũ hơn nữa và tốc độ hoạt động của máy không còn thỏa mãn nữa.
+
+Hay đó cũng có thể là các bạn đam mê chụp ảnh bằng điện thoại di động, muốn có những tấm hình đẹp hơn, lung linh hơn,… Thậm chí đó còn có thể là anh em Android đang xài một chiếc Phablet và muốn đổi gió thử với một nền tảng mới là iOS nhưng cần kích thước màn hình cũng phải tương đương. Hay đơn giản hơn, đó chỉ là một cô gái mà ngày sinh nhật đã tới mà bạn trai chưa biết mua quà gì tặng.
+
+
+
+
+
+
+
+​Người Mỹ có một ý tưởng xuất hiện từ những ngày sơ khai lập quốc rằng if it's possible, it can be built, tạm dịch là Nếu cái gì có thể thì hãy tạo ra nó, họ đã dùng ý tưởng này để tạo ra rất nhiều công trình có sức ảnh hưởng lớn và mình nghĩ tới thời điểm này điều đó vẫn có thể áp dụng đối với việc Apple tạo ra iPhone XS Max - một tương lai của điện thoại màn hình lớn, không có nút home và eSIM. Đối với anh em chúng ta, ý tưởng đó xin được mạn phép chuyển thành Nếu có thể, hãy cứ mua nó bởi lẽ, chẳng có ai phán xét bạn sung sướng khi bạn ra quyết định mua cái mình thích đúng không nào? Xin cám ơn anh em.
+
+
+
+
+
+
+ 
+
